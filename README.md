@@ -5,3 +5,4 @@ Curso Alura PHP Doctrine: Introdução ao Mapeamento Objeto-Relacional
 - [Aula 01 - Criando o EntityManager](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-01)
 - [Aula 02 - Persistindo a primeira entidade](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-02)
 - [Aula 03 - Finalizando o CRUD](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-03)
+- [Aula 04 - Relacionamento OneToMany](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-04)
