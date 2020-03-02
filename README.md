@@ -9,3 +9,4 @@ Curso Alura PHP Doctrine: Introdução ao Mapeamento Objeto-Relacional
 - [Aula 05 - Relacionamento ManyToMany](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-05)
 - [Aula 06 - Doctrine Query Language](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-06)
 - [Aula 07 - Repositório e QueryBuilder](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-07)
+- [Aula 08 - Integração com outros componentes](https://github.com/vxrnxk/cur-alura-doctrine-introducao-orm-php/tree/master/aula-08)
